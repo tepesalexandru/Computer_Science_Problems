@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515694225 source:d:\development\coding\c++\rover2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<queue>
+	<deque>
+

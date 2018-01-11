@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515027860 source:d:\development\coding\c++\ubuph\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+
