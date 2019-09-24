@@ -2,7 +2,7 @@
 #include<fstream>
 using namespace std;
 //
-ifstream f("atestat.in.c");
+ifstream f("atestat.in");
 ofstream g("atestat.out");
 
 void citire(int &n , int a[])
