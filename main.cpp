@@ -22,7 +22,7 @@ void pcta(int n, int a[])
     cout<<endl;
 }
 
-int mini,maxi;
+int mini,maxi, hello;
 
 void pctb(int n, int a[])
 {
